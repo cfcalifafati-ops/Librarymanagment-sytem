@@ -1,1 +1,1 @@
-# dure-friday
+# due-friday
